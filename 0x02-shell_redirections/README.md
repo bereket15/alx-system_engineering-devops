@@ -1,1 +1,1 @@
-0x02-shell_redirections readme
+Shell redirection readme
